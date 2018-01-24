@@ -1,0 +1,110 @@
+2.1. Criando o projeto - ok
+https://github.com/algaworks/workshop-rest-spring/tree/master/Criando%20o%20projeto
+
+2.2. Modelando nosso primeiro recurso - ok
+https://github.com/algaworks/workshop-rest-spring/tree/master/Modelando%20nosso%20primeiro%20recurso
+
+2.3. Criando uma representacao para o recurso Livro.mp4 - ok
+https://github.com/algaworks/workshop-rest-spring/tree/master/Criando%20uma%20representa%C3%A7%C3%A3o%20para%20o%20recurso%20Livro
+
+2.4. Utilizando a anotação @JsonInclude - ok
+https://github.com/algaworks/workshop-rest-spring/tree/master/Utilizando%20a%20anota%C3%A7%C3%A3o%20%40JsonInclude
+
+2.5. Interagindo com o banco de dados - ok
+https://github.com/algaworks/workshop-rest-spring/tree/master/Interagindo%20com%20o%20banco%20de%20dados
+
+2.6. Salvando o recurso Livro a partir de um POST - ok
+https://github.com/algaworks/workshop-rest-spring/tree/master/Salvando%20o%20recurso%20Livro%20a%20partir%20de%20um%20POST
+
+2.7. Buscando um livro com o uso da anotação @PathVariable - ok
+https://github.com/algaworks/workshop-rest-spring/tree/master/Buscando%20um%20livro%20com%20o%20uso%20da%20anota%C3%A7%C3%A3o%20%40PathVariable
+
+2.8. Deletando o recurso Livro com o DELETE - ok
+https://github.com/algaworks/workshop-rest-spring/tree/master/Deletando%20o%20recurso%20Livro%20com%20o%20DELETE
+
+2.9. PUT para atualizar o recurso Livro - ok
+https://github.com/algaworks/workshop-rest-spring/tree/master/PUT%20para%20atualizar%20o%20recurso%20Livro
+
+2.10. Tratamento correto das respostas HTTP 404 e 201
+https://github.com/algaworks/workshop-rest-spring/tree/master/Tratamento%20correto%20das%20respostas%20HTTP%20404%20e%20201
+
+2.11. Finalizando o tratamento das respostas
+https://github.com/algaworks/workshop-rest-spring/tree/master/Finalizando%20o%20tratamento%20das%20respostas
+
+2.12. Melhorando o design do nosso código
+https://github.com/algaworks/workshop-rest-spring/tree/master/Melhorando%20o%20design%20do%20nosso%20c%C3%B3digo
+
+2.13. Manipulando erros com @ExceptionHandler e @ControllerAdvice
+https://github.com/algaworks/workshop-rest-spring/tree/master/Manipulando%20erros%20com%20%40ExceptionHandler%20e%20%40ControllerAdvice
+
+2.14. Adicionando coment�rios ao recurso Livro
+https://github.com/algaworks/workshop-rest-spring/tree/master/Adicionando%20coment%C3%A1rios%20ao%20recurso%20Livro%20
+
+2.15. Listando os coment�rios do recurso Livro
+https://github.com/algaworks/workshop-rest-spring/tree/master/Listando%20os%20coment%C3%A1rios%20do%20recurso%20Livro%20
+
+2.16. Adicionando o recurso Autor � nossa AP
+https://github.com/algaworks/workshop-rest-spring/tree/master/Adicionando%20o%20recurso%20Autor%20%C3%A0%20nossa%20API
+
+2.17. Evoluindo nosso recurso Autor
+https://github.com/algaworks/workshop-rest-spring/tree/master/Evoluindo%20nosso%20recurso%20Autor
+
+2.18. Testando nossos recursos e formatando nossas representa��es JSON
+https://github.com/algaworks/workshop-rest-spring/tree/master/Testando%20nossos%20recursos%20e%20formatando%20nossas%20representa%C3%A7%C3%B5es%20JSON
+
+2.19. Validando as entradas na nossa API
+https://github.com/algaworks/workshop-rest-spring/tree/master/Validando%20as%20entradas%20na%20nossa%20API
+
+2.20. Negociacao de conteudos com Media Type
+https://github.com/algaworks/workshop-rest-spring/tree/master/Negocia%C3%A7%C3%A3o%20de%20conte%C3%BAdos%20com%20Media%20Type
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
