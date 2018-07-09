@@ -29,7 +29,7 @@ public class AutoresResource
 
     @RequestMapping(method = RequestMethod.GET, produces = {
 	    MediaType.APPLICATION_JSON_VALUE,
-	    MediaType.APPLICATION_ATOM_XML_VALUE
+	    MediaType.APPLICATION_XML_VALUE
     })
     public ResponseEntity<List<Autor>> listar()
     {
