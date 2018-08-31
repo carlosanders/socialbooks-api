@@ -59,6 +59,12 @@ https://github.com/algaworks/workshop-rest-spring/tree/master/Validando%20as%20e
 2.20. Negociacao de conteudos com Media Type -ok
 https://github.com/algaworks/workshop-rest-spring/tree/master/Negocia%C3%A7%C3%A3o%20de%20conte%C3%BAdos%20com%20Media%20Type
 
+3.2 autenticação - ok
+https://github.com/algaworks/workshop-rest-spring/blob/master/Autentica%C3%A7%C3%A3o%20com%20Spring%20Security/pom.xml
+
+6676eb5e-0bfb-4702-a497-c5843ed16803
+
+
 
 
 
